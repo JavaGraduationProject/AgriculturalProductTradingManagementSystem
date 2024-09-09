@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/kindeditor/jsp/lib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/kindeditor/jsp/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/kindeditor/jsp/lib/json_simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
